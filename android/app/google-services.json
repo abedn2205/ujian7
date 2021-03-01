@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "251791391276",
+    "firebase_url": "https://laporansiskamling-default-rtdb.firebaseio.com",
+    "project_id": "laporansiskamling",
+    "storage_bucket": "laporansiskamling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251791391276:android:eb8f309206319973aeaf89",
+        "android_client_info": {
+          "package_name": "com.reactnativedasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251791391276-0uajr91en8fean6fqmnatbtt72mnl5u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK07HV6FyyqT1J8GkM9dHLqGjaUZ6HkSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251791391276-0uajr91en8fean6fqmnatbtt72mnl5u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251791391276:android:5d7de70669e9bd19aeaf89",
+        "android_client_info": {
+          "package_name": "com.tugas6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251791391276-0uajr91en8fean6fqmnatbtt72mnl5u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK07HV6FyyqT1J8GkM9dHLqGjaUZ6HkSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251791391276-0uajr91en8fean6fqmnatbtt72mnl5u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
